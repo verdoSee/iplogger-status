@@ -15,5 +15,6 @@ I don't think this actually has a use i just though it would look more 'hacky' s
 <code>source venv/bin/activate</code>
 <br>
 <code>python3 -m pip install -r requirments.txt</code>
+<br>
 <code> python3 logger.py</code>
 
