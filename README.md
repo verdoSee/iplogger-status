@@ -5,7 +5,7 @@ I don't think this actually has a use i just though it would look more 'hacky' s
 
 # Installation
 
-git clone https://github.com/verdoSee/iplogger-status.git
+<code> git clone https://github.com/verdoSee/iplogger-status.git </code>
 cd iplogger-status
 python3 -m venv venv
 source venv/bin/activate
