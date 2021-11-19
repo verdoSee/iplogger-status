@@ -16,5 +16,7 @@ I don't think this actually has a use i just though it would look more 'hacky' s
 <br>
 <code>python3 -m pip install -r requirments.txt</code>
 <br>
+<strong> Then make sure to refactor the script providing your url's  id  and  your PHPSESSID in the lines with the "#Here" comment</strong>
+<br>
 <code> python3 logger.py</code>
 
