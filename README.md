@@ -5,8 +5,12 @@ I don't think this actually has a use i just though it would look more 'hacky' s
 
 # Installation
 
-<code> git clone https://github.com/verdoSee/iplogger-status.git </code>
-cd iplogger-status
-python3 -m venv venv
-source venv/bin/activate
-python3 -m pip install -r requirments.txt
+<code> git clone https://github.com/verdoSee/iplogger-status.git</code>
+<br>
+<code>cd iplogger-status</code>
+<br>
+<code>python3 -m venv venv</code>
+<br>
+<code>source venv/bin/activate</code>
+<br>
+<code>python3 -m pip install -r requirments.txt</code/
