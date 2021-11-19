@@ -1,7 +1,7 @@
 # iplogger-status
 
 This is a script to get close to real time updates for your logged ips from https://iplogger.org using python requests and BeautifulSoup.
-I don't think this actually has a use i just though it would look more 'hacky' seeing your logged ips in terminal close to real time haha.
+I don't think this actually has a use i just though it would look more 'hacky' seeing your logged ips in the terminal close to real time haha.
 
 # Installation
 
